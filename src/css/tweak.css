@@ -1,0 +1,8 @@
+canvas {
+    border: 10px solid #000000;
+    border-radius: 10px;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    width: 400px;
+    height: 400px;
+}

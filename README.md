@@ -1,7 +1,19 @@
-# JavaScript Game Demo
-(my first game in js)
+# snake.js
+A simple snake game made in Javascript.
 
-- I used canvas to draw on the canvas
-- I tried to "improve" the keyboard bind system
+## Getting started
 
-You are free to use, modify and sell this code. This is a demonstration.
+To play snake.js, you need to open the `index.html` file in your preferred browser. For example:
+```console
+$ firefox src/index.html
+$ # or
+$ iexplore.exe src/index.html
+```
+
+## Controls
+- Start the game with `G`.
+- Move the snake with `W` `A` `S` `D`
+
+---
+
+> By Marcio Dantas
